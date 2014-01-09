@@ -1,9 +1,9 @@
+---
 title: Mac Book Air 設定手順
-==========
 date: 2014-01-03 20:18
 tags: [mac設定,brew,vim]
 categories: [mac]
-- - -
+---
 
 #Mac Book Air 設定手順
 
