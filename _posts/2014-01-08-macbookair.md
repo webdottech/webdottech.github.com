@@ -5,9 +5,7 @@ description: ""
 category: "mac"
 tags: [mac設定,brew,vim]
 ---
-
-#Mac Book Air 設定手順
-
+{% include JB/setup %}
 Mac miniのサブマシンにMac Book Air買ってしまいました。  
 年末の繁忙期のためか１日遅れで到着。  
 以下、正月休みに行った設定メモ
