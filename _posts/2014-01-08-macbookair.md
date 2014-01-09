@@ -149,15 +149,6 @@ App Storeから手動でインストール
 		% brew install w3m
 		% brew install tree
 
-	Vimを+clipbordで入れなおす。
-
-		% brew options vim   
-		% brew install vim --with-perl --without-ruby
-
-	syntax.vimが無いと怒られたので
-
-		% ln -s /usr/local/Cellar/vim/7.4.052/share/vim/vim74/ /usr/local/share/vim
-
 ##Gnuコマンドを利用できるように変更
 
 	% brew install coreutils --default-names
@@ -211,4 +202,3 @@ Vimから`:NeoBundleInstall`
 * [font - プログラミング用フォントをMacに homebrew でインストール - Qiita [キータ]](http://qiita.com/hshimo/items/02b9882162b6f07cd85f)
 * [Vim - powerlineをいつ使う？今でしょ！ - Qiita [キータ]](http://qiita.com/alpaca_taichou/items/ab70f914a6a577e25d70)
 * [Mac の Vim (CUI) でクリップボードを有効化する - Qiita [キータ]](http://qiita.com/b4b4r07/items/6f0ac4c5ae3edc10ce3a)
-
