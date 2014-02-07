@@ -204,3 +204,4 @@ Vimから`:NeoBundleInstall`
 * [font - プログラミング用フォントをMacに homebrew でインストール - Qiita [キータ]](http://qiita.com/hshimo/items/02b9882162b6f07cd85f)
 * [Vim - powerlineをいつ使う？今でしょ！ - Qiita [キータ]](http://qiita.com/alpaca_taichou/items/ab70f914a6a577e25d70)
 * [Mac の Vim (CUI) でクリップボードを有効化する - Qiita [キータ]](http://qiita.com/b4b4r07/items/6f0ac4c5ae3edc10ce3a)
+* [MacOSX - vim で lua を有効にする - Qiita](http://qiita.com/zakkied/items/c46364c00e9fce7b55c7)
