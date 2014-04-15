@@ -4,7 +4,7 @@ title: Web.Tech
 tagline: 最新Web技術を勉強してまとめるブログ
 ---
 {% include JB/setup %}
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:10 %}
 <h2>{{ post.title }}</h2>
 <p class="date">{{ post.date | date: "%Y年%m月%d日" }}</p>
 
