@@ -87,7 +87,6 @@ App Storeから手動でインストール
 
 * [Xcode](https://developer.apple.com/jp/technologies/tools/)
 
-
 	1. [App Store](https://itunes.apple.com/jp/app/xcode/id497799835?mt=12)からダウンロードしてインストール
 
 	2. Command Line Toolsのインストール
