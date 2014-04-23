@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Web.Tech
-tagline: 最新Web技術を勉強してまとめるブログ
+tagline: Web技術を勉強してメモするブログ
 ---
 {% include JB/setup %}
 {% for post in site.posts limit:10 %}
@@ -27,3 +27,4 @@ tagline: 最新Web技術を勉強してまとめるブログ
 <hr>
 
 {% endfor %}
+
