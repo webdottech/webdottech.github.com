@@ -87,10 +87,9 @@ App Storeから手動でインストール
 
 * [Xcode](https://developer.apple.com/jp/technologies/tools/)
 
-	1. [App Store](https://itunes.apple.com/jp/app/xcode/id497799835?mt=12)からダウンロードしてインストール
-
-	2. Command Line Toolsのインストール
-		* [MavericksでCommand Line Tools for Xcodeをインストールする - Qiita [キータ]](http://qiita.com/3yatsu/items/47470091277d46f3fde2)
+1. [App Store](https://itunes.apple.com/jp/app/xcode/id497799835?mt=12)からダウンロードしてインストール
+2. Command Line Toolsのインストール
+	* [MavericksでCommand Line Tools for Xcodeをインストールする - Qiita [キータ]](http://qiita.com/3yatsu/items/47470091277d46f3fde2)
 
 * [Homebrew](http://brew.sh/)
 
